@@ -1,9 +1,9 @@
 <div align="center" width="100%">
-    <img src="https://static.wikia.nocookie.net/9108f880-db7c-45a7-b2f1-bc4962d2d8f1" width="128"/>
+    <img src="https://i.toaaa.de/i/twjgi.png" width="128"/>
 </div>
 <p align="center">
-  <h1 align="center">Rise Of Nations Guide</h1>
-  <p align="center">Ein Guide zu den Truppen von Rise of Nations bestimmt kommt hier noch mal mehr hin.</p>
+  <h1 align="center">Rise Of Nations — Guide</h1>
+  <p align="center">Ein Guide zu den Truppen von Rise of Nations.<p>
 </p>
 
 ## Inhaltsverzeichnis
@@ -60,7 +60,6 @@ Der Flugzeugträger ist das beste Schiff in einer Navy Flotte. Es hat die größ
 
 > Tipps zu den Schiffen:
 > Priorisiere Naval Guns und Naval Protection.
-
 <br />
 
 ## Flugzeuge
