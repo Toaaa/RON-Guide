@@ -1,6 +1,28 @@
-# Rise Of Nations Guide
-Ein Guide zu den Truppen von Rise of Nations bestimmt kommt hier noch mal mehr hin.
+<div align="center" width="100%">
+    <img src="https://static.wikia.nocookie.net/9108f880-db7c-45a7-b2f1-bc4962d2d8f1" width="128"/>
+</div>
+<p align="center">
+  <h1 align="center">Rise Of Nations Guide</h1>
+  <p align="center">Ein Guide zu den Truppen von Rise of Nations bestimmt kommt hier noch mal mehr hin.</p>
+</p>
 
+## Inhaltsverzeichnis
+
+* [Bodeneinheiten](#bodeneinheiten)
+  * [Infanterie](#infanterie)
+  * [Panzer](#panzer)
+  * [Anti-Air](#anti-air)
+  * [Artillerie](#artillerie)
+* [Schiffe](#schiffe)
+  * [Fregatte](#fregatte)
+  * [Zerstörer](#zerstörer)
+  * [Schlachtschiff](#schlachtschiff)
+  * [U-Boot](#u-boot)
+  * [Flugzeugträger](#flugzeugträger)
+* [Flugzeuge](#flugzeuge)
+   * [Jäger](#jäger)
+   * [Attacker](#attacker)
+   * [Bomber](#bomber)
 
 ## Bodeneinheiten
 ### Infanterie
@@ -16,9 +38,9 @@ Die Anti Air ist die einzige Bodeneinheit, welche gegen Lufttruppen kämpfen kan
 ### Artillerie
 Die Artillerie kann mit der Anti-Air unter dem "Support"-Tab geforscht werden, um diese besser zu machen. Die Artillerie kann Bodeneinheiten von weiter Entfernung großen Schaden anrichten.
 
-Tipps zu den Bodeneinheiten:
-Priorisiere bei der Infanterie Anti panzer Waffen, da diese dann die Möglichkeit haben, Panzer sehr gut zu kontern.
-
+> Tipps zu den Bodeneinheiten:
+> Priorisiere bei der Infanterie Anti panzer Waffen, da diese dann die Möglichkeit haben, Panzer sehr gut zu kontern.
+<br />
 
 ## Schiffe
 ### Fregatte
@@ -36,9 +58,10 @@ Das U-Boot ist der Albtraum von jedem Schiff bis auf dem Zerstörer. Das U-Boot 
 ### Flugzeugträger
 Der Flugzeugträger ist das beste Schiff in einer Navy Flotte. Es hat die größte Reichweite und macht extremen Schaden. Der Hauptgrund, ein Flugzeugträger zu besitzen, ist, damit Flugzeuge daran auftanken können und um feindliche Armeen sehr schnell zu töten.
 
-Tipps zu den Schiffen:
-Priorisiere Naval Guns und Naval Protection.
+> Tipps zu den Schiffen:
+> Priorisiere Naval Guns und Naval Protection.
 
+<br />
 
 ## Flugzeuge
 ### Jäger
@@ -50,5 +73,5 @@ Die Attacker sind sehr gut darin, Boden- oder Wassereinheiten sehr schnell zu ki
 ### Bomber
 Bomber sind gut darin, in langen Kriegen die Industrie des feindlichen Spielers zu zerstören. Jedoch sind Bomber besser darin, Städte in Brand zu stecken und so den Feind in die Knie zu zwingen.
 
-Tipps zu den Flugzeugen:
-Priorisiere Rockets, da diese am besen für alle Flugzeuge sind.
+> Tipps zu den Flugzeugen:
+> Priorisiere Rockets, da diese am besen für alle Flugzeuge sind.
