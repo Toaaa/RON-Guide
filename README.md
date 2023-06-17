@@ -3,7 +3,8 @@
 </div>
 <p align="center">
   <h1 align="center">Rise Of Nations — Guide</h1>
-  <p align="center">Ein Guide zu den Truppen von Rise of Nations.<p>
+  <p  align="center">Ein Guide zu den Truppen von Rise of Nations.<p>
+  <p  align="center">Zum RoN Wiki gelangst du <a href="https://ronroblox.fandom.com/wiki/Roblox_Rise_of_Nations_Wiki">hier</a></p>
 </p>
 
 ## Inhaltsverzeichnis
