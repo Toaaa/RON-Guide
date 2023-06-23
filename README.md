@@ -1,29 +1,59 @@
 <div align="center" width="100%">
-    <img src="https://i.toaaa.de/i/twjgi.png" width="128"/>
+    <img src="https://i.imgur.com/1FuHPVp.png" width="400"/>
 </div>
 <p align="center">
-  <h1 align="center">Rise Of Nations — Guide</h1>
-  <p  align="center">Ein Guide zu den Truppen von Rise of Nations.<p>
-  <p  align="center">Zum Rise Of Nations Wiki gelangst du <a href="https://ronroblox.fandom.com/wiki/Roblox_Rise_of_Nations_Wiki">hier</a></p>
+  <h1 align="center">Rise of Nations — Guide</h1>
+  <p  align="center">Ein Guide zu Roblox Rise of Nations.<p>
+  <p  align="center">Zum Rise of Nations Wiki gelangst du <a href="https://ronroblox.fandom.com/wiki/Roblox_Rise_of_Nations_Wiki">hier</a></p>
 </p>
 
 ## Inhaltsverzeichnis
 
-* [Bodeneinheiten](#bodeneinheiten)
-  * [Infanterie](#infanterie)
-  * [Panzer](#panzer)
-  * [Anti-Air](#anti-air)
-  * [Artillerie](#artillerie)
-* [Schiffe](#schiffe)
-  * [Fregatte](#fregatte)
-  * [Zerstörer](#zerstörer)
-  * [Schlachtschiff](#schlachtschiff)
-  * [U-Boot](#u-boot)
-  * [Flugzeugträger](#flugzeugträger)
-* [Flugzeuge](#flugzeuge)
-   * [Jäger](#jäger)
-   * [Attacker](#attacker)
-   * [Bomber](#bomber)
+* [Allgemeinwissen](#allgemeinwissen)
+	* [Was ist Rise of Nations](#wasistriseofnations)
+	* [Worum geht es in Rise of Nations](#worumgehtesinriseofnations)
+* [Krieg](#krieg)
+	* [Conquest](#conquest)
+	* [Liberation](#liberation)
+	* [das andere](#)
+* [Truppen in Rise of Nations](#truppeninriseofnations)
+	* [Bodeneinheiten](#bodeneinheiten)
+	  * [Infanterie](#infanterie)
+	  * [Panzer](#panzer)
+	  * [Anti-Air](#anti-air)
+	  * [Artillerie](#artillerie)
+	* [Schiffe](#schiffe)
+	  * [Fregatte](#fregatte)
+	  * [Zerstörer](#zerstörer)
+	  * [Schlachtschiff](#schlachtschiff)
+	  * [U-Boot](#u-boot)
+	  * [Flugzeugträger](#flugzeugträger)
+	* [Flugzeuge](#flugzeuge)
+	   * [Jäger](#jäger)
+	   * [Attacker](#attacker)
+	   * [Bomber](#bomber)
+*  [Ressourcen](#ressourcen)
+	* [Aircraft Parts](#aircraftparts)
+	* [Aluminium](#aluminium)
+	* [Chromium](#chromium)
+	* [Consumer Goods](#consumergoods)
+	* [Copper](#copper)
+	* [Diamonds](#diamonds)
+	* [Electronics](electronics)
+	* [Enriched Uranium](#enricheduranium)
+	* [Fertilizer](#fertilizer)
+	* [Gold](#gold)
+	* [Iron](#iron)
+	* [Motor Parts](#motorparts)
+	* [Oil](#oil)
+	* [Phosphate](#phosphate)
+	* [Steel](#steel)
+	* [Titanium](#titanium)
+	* [Tungsten](#tungsten)
+	* [Uranium](#uranium)
+* [Wirtschaft](#wirtschaft)
+	* [Allgemeine Informationen](#wirtschaftallgemeineinformationen)
+	* [Wirtschaft verbessern](#wirtschaftverbessern)
 
 ## Bodeneinheiten
 ### Infanterie
