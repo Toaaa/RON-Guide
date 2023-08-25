@@ -15,7 +15,7 @@
 * [Krieg](#krieg)
 	* [Conquest](#conquest)
 	* [Liberation](#liberation)
-	* [das andere](#)
+	* [Subjugation](#subjucation)
 * [Truppen in Rise of Nations](#truppeninriseofnations)
 	* [Bodeneinheiten](#bodeneinheiten)
 	  * [Infanterie](#infanterie)
@@ -55,6 +55,40 @@
 	* [Allgemeine Informationen](#wirtschaftallgemeineinformationen)
 	* [Wirtschaft verbessern](#wirtschaftverbessern)
 
+## Allgemeinwissen
+### Was ist Rise of Nations
+Rise of Nations ist eine Roblox Experience, welche darauf abziehlt eine kostenlose Variante vom beliebten Strategiespiel Hearts of Iron IV im modernen Zeitalter zu sein.
+
+### Worum geht es in Rise of Nations
+In Rise of Nations geht es darum, dass der Spieler ein Land seiner Wahl auswählt und damit versucht globale Domination zu erziehlen.
+Dafür hat jedes Land unterschiedliche Vor- und Nachteile. Einige Länder starten mit einer stärkeren Wirtschaft, mehr Truppen oder mehr Ressourcen als andere Länder. Auch spielt die geografische Lage eines Landes eine große Rolle auf die Schwierigkeit globale Domination oder Vergleichbares zu erziehlen.
+
+## Krieg
+### Conquest
+Ein Conquest Krieg oder ein Eroberungskrieg zielt darauf ab, das anzugreifende Land zu erobern. Dafür stehen einem am ende des Krieges folgende Optionen im Friedensvertrag zur Verfügung:
+- Annex Cities _Annektiere Städte_
+- Seize State Treasury _Nehme Geld aus der Staatsbank_
+- Seize State [Resources](#ressourcen) _Nehme Ressourcen vom Feindesland weg_
+- Demand War Reperations _Fordere Kriegsreperaturen_
+
+### Liberation
+Ein Liberation Krieg oder Befreiungskrieg zielt darauf ab, Länder bzw. die Menschen, welche unter der Kontrolle von einem anderen Land stehen zu befreien. Dafür stehen einem am ende des Krieges folgende Optionen im Friedensvertrag zur Verfügung:
+- Seize State Treasury _Nehme Geld aus der Staatsbank_
+- Seize State [Resources](#ressourcen) _Nehme Ressourcen vom Feindesland weg_
+- Demand War Reperations _Fordere Kriegsreperaturen_
+- Enforce Ideology _Fordere vom eingenommenen Land eine andere Ideologie_
+- Liberate Countries _Befreie Länder_
+- Disarm Military _Entwaffne das Feindesland_
+
+### Subjugation _Hat noch nie irgendwer verwendet 🤡_
+Ein Subjugation Krieg oder Unterwerfungskrieg zielt darauf an, das anzugreifende Land gewahltsam zu einem Puppenstaat zu machen. Dafür stehen einem am ende des Krieges folgende Optionen im Friedensvertrag zur Verfügung:
+- Seize State Treasury _Nehme Geld aus der Staatsbank_
+- Seize State [Resources](#ressourcen) _Nehme Ressourcen vom Feindesland weg_
+- Demand War Reperations _Fordere Kriegsreperaturen_
+- Enforce Ideology _Fordere vom eingenommenen Land eine andere Ideologie_
+- Puppet Nation _Mache das Land zu deinem Puppenstaat_
+- Disarm Military _Entwaffne das Feindesland_
+
 ## Bodeneinheiten
 ### Infanterie
 Die Infanterie ist ein Allrounder. Sie kann gut angreifen und verteidigen. Mit den entsprechenden Upgrades bzw. Forschungen kann man die Infanterie noch effektiver in ihrer Arbeit machen. Man kann mit Transportflugzeugen Infanterie schneller durch die Luft transportieren und so schnell an abgelegene Orte bringen. Eine Einheit Infanterie besteht aus 20k Soldaten.
@@ -70,7 +104,7 @@ Die Anti Air ist die einzige Bodeneinheit, welche gegen Lufttruppen kämpfen kan
 Die Artillerie kann mit der Anti-Air unter dem "Support"-Tab geforscht werden, um diese besser zu machen. Die Artillerie kann Bodeneinheiten von weiter Entfernung großen Schaden anrichten.
 
 > Tipps zu den Bodeneinheiten:
-> Priorisiere bei der Infanterie Anti panzer Waffen, da diese dann die Möglichkeit haben, Panzer sehr gut zu kontern.
+> Priorisiere bei der Infanterie Anti-Panzer-Waffen, da diese dann die Möglichkeit haben, Panzer sehr gut zu kontern.
 <br />
 
 ## Schiffe
